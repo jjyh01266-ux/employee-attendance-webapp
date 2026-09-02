@@ -1,0 +1,7 @@
+{
+  "name": "개인 근무 상황 관리 사이트",
+  "description": "발달장애 학생의 직장생활 체험을 위한 특수교육용 개인 근무 상황 관리 사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
